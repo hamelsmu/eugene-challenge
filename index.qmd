@@ -1,0 +1,28 @@
+---
+title: "Eugene Yan"
+description: "I design, build, and operate machine learning systems that serve customers at scale. I also write about data/ML systems and career."
+format: html
+---
+
+<div id="hi"><h1>Hi, I'm Eugene Yan, <span></span></h1></div>
+
+<p style="line-height: 1.7; margin-bottom: 15px; font-size: 16px">
+I build recommendation systems and AI-powered experiences that serve customers at scale.
+Currently, I'm a Principal Applied Scientist at Amazon.
+Outside of work, I also...
+</p>
+
+<ul class="home-bullets">
+
+<li><a href="/writing/">Write</a> and <a href="/speaking/">speak</a> about recommendation systems, AI-powered product, and engineering.</li>
+<li><a target="_blank" href="https://www.aiteratelabs.com/">Prototype</a> apps like <a href="https://aireadingclub.com/" target="_blank">AI Reading Club</a>, <a href="https://aligneval.com/" target="_blank">AlignEval</a>, <a href="https://github.com/eugeneyan/obsidian-copilot" target="_blank">Obsidian Copilot</a>, <a href="tel:+12065588782" target="_blank">AI Coach</a>, and <a href="https://www.aiteratelabs.com/" target="_blank">more</a>.</li>
+<li>Teach how to apply ML/LLMs effectively at <a href="https://applyingml.com/" target="_blank">ApplyingML.com</a> & <a href="https://applied-llms.org/" target="_blank">Applied-LLMs.org</a>.</li>
+<li><a href="/subscribe/">Send</a> a newsletter on RecSys, LLMs/AI, and what I'm learning to 10,800+ readers.</li>
+</ul>
+
+<!-- TODO: Add ConvertKit subscription form embed code here -->
+
+<div class="page-title cp-title" align="center"><h1><font size="5"><a href="/writing/">Latest Posts</a></font></h1></div>
+<ul class="home-bullets-posts">
+  <li><p class="cp-title home-title"><code>04 May 2025</code>&nbsp;&nbsp;·&nbsp; <a href="/writing/news-agents/" title="Building News Agents for Daily News Recaps with MCP, Q, and tmux">Building News Agents for Daily News Recaps with MCP, Q, and tmux</a></p></li>
+</ul>

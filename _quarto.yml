@@ -1,0 +1,17 @@
+project:
+  type: website
+
+execute:
+  enabled: false
+
+website:
+  title: eugeneyan.com
+
+format:
+  html:
+    css: [css/main.css, css/monokai.css]
+    toc: false
+    self-contained: false
+    include-in-header: header.html
+    include-before-body: before-body.html
+    include-after-body: after-body.html

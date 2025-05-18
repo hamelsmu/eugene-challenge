@@ -1,0 +1,7 @@
+# Quarto build artifacts
+_site/
+.quarto/
+
+# macOS
+.DS_Store
+/.quarto/

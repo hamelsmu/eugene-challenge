@@ -1,10 +1,7 @@
 ---
 title: "Writing"
 description: "Eugene's writings and blog posts"
-format: html
 ---
-
-# Writing
 
 ## Blog posts
 

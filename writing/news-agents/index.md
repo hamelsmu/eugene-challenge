@@ -4,7 +4,6 @@ description: "Learning to automate simple agentic workflows with Amazon Q CLI, A
 author: "Eugene Yan"
 date: "2025-05-04"
 tags: ["llm", "learning", "🛠"]
-format: html
 ---
 
 Content to be migrated from the original post.

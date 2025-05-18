@@ -9,7 +9,7 @@ website:
 
 format:
   html:
-    css: [css/main.css, css/monokai.css]
+    css: [/css/main.css, /css/monokai.css]
     toc: false
     self-contained: false
     include-in-header: header.html

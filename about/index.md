@@ -1,10 +1,7 @@
 ---
 title: "About"
 description: "About Eugene Yan"
-format: html
 ---
-
-# About
 
 Content coming soon.  
 Learn more about me and my background.

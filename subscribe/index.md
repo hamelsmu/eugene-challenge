@@ -1,9 +1,6 @@
 ---
 title: "Subscribe"
 description: "Subscribe to Eugene's newsletter"
-format: html
 ---
-
-# Subscribe
 
 <!-- TODO: Add ConvertKit subscription form embed code here -->
